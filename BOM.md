@@ -8,12 +8,12 @@ Note that this list is very volatile. You may want to shop around for best
 price or need to look at another vendor if the item is out of stock.
 
 <table>
-  <th>
-    <td>Item</td>
-    <td>Vendor</td>
-    <td>Price*</td>
-    <td>Description<td>
-  </th>
+  <tr>
+    <th>Item</th>
+    <th>Vendor</th>
+    <th>Price*</th>
+    <th>Description<th>
+  </tr>
   <tr>
     <td>
       <a href="http://www.amazon.com/gp/product/B008A3KFB8/">ViewSonic VX2703MH-LED 27-Inch LED-Lit Monitor</a>

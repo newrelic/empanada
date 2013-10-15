@@ -1,7 +1,7 @@
 empanada
 ========
 
-Instructions and Software to create an [Informative Workspace with Raspberry
+Instructions and software to create an [Informative Workspace with Raspberry
 Pi](http://velocityconf.com/velocityny2013/public/schedule/detail/29924).
 
 A [Raspberry Pi](http://www.raspberrypi.org/) is a low-cost, low-power
@@ -17,8 +17,8 @@ We will have a baseline of the software delivered by the end of October 2013.
 
 See [BOM.md](BOM.md) for what to order.
 
-See [pi/INSTALL.md] for instructions on installing the Raspberry Pi with
+See [pi/INSTALL.md](pi/INSTALL.md) for instructions on installing the Raspberry Pi with
 a configuration suitable for an information radiator.
 
-See [TODO.md] for details and progress.
+See [TODO.md](TODO.md) for details and progress.
 

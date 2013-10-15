@@ -1,7 +1,7 @@
-### TO BE DELIVERED:
+### TO BE DELIVERED
 
-Stay tuned over the course of 2013-10.
+Stay tuned over the course of October 2013. We are doing some final work
+to make the software consumable in your environment.
 
 * Dashboard software that can be run on the Pi or elsewhere
-* Bridge between GPIO and Event Service
-
+* Shim between GPIO and Event Service
