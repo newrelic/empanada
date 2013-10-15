@@ -46,7 +46,7 @@ price or need to look at another vendor if the item is out of stock.
     <td><a href="http://www.makershed.com/Mintronics_Survival_Pack_p/mstin2.htm">Mintronics Survival Pack</a></td>
     <td>MakerShed</td>
     <td>$24.99</td>
-    <td>Lots of little parts you'll need for any project.</td>
+    <td>Lots of little parts you will need for any project.</td>
   </tr>
   <tr>
     <td><a href="https://www.sparkfun.com/products/8630">PIR Motion Sensor</a></td>
@@ -54,8 +54,17 @@ price or need to look at another vendor if the item is out of stock.
     <td>$  9.95</td>
     <td>Digital motion sensor</td>
   </tr>
+  <tr>
+    <td><a href="http://www.surplusgizmos.com/3-LED-Red-Waterproof-Strip-750-mcd-12v-DC_p_1548.html">Red 3 LED Array</a></td>
+    <td>Surplus Gizmos</td>
+    <td>$  1.85</td>
+    <td>Bright red LED array</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.surplusgizmos.com/200mm-6-inch-Jumper-Wire-for-Pin-Outs-Pack-of-20-_p_2596.html">6 inch wire jumpers</a></td>
+    <td>Surplus Gizmos</td>
+    <td>$  6.50</td>
+    <td>Pack of 20 6 inch wire jumpers with female connectors on both ends.</td>
+  </tr>
 </table>
-
-TODO: LED, female jumper wires, other?
-
 
