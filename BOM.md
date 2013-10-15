@@ -46,13 +46,13 @@ price or need to look at another vendor if the item is out of stock.
     <td><a href="http://www.makershed.com/Mintronics_Survival_Pack_p/mstin2.htm">Mintronics Survival Pack</a></td>
     <td>MakerShed</td>
     <td>$24.99</td>
-    <td>AC relay to control the monitor power (or anything else)</td>
+    <td>Lots of little parts you'll need for any project.</td>
   </tr>
   <tr>
     <td><a href="https://www.sparkfun.com/products/8630">PIR Motion Sensor</a></td>
     <td>SparkFun</td>
     <td>$  9.95</td>
-    <td>AC relay to control the monitor power (or anything else)</td>
+    <td>Digital motion sensor</td>
   </tr>
 </table>
 
