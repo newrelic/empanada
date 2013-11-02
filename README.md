@@ -13,7 +13,10 @@ cheaply, easily, and flexibly.
 
 As of this writing, we are working to make the
 software reliable and reusable in your environment before making it available.
-We will have a baseline of the software delivered by the end of October 2013.
+
+UPDATE: Thanks for your patience, Pi Party Peoples! We need a bit more time
+to provide the dashboard and GPIO software. We expect to have the software
+published here by 2013-11-11. Please star the repo to stay tuned.
 
 See [BOM.md](BOM.md) for what to order.
 
